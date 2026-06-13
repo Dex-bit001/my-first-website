@@ -1,6 +1,7 @@
 // Complete configuration for tracks, asset paths, and timed lyric matrices
 const spotifyPlaylist = [
-    {
+    
+        {
     id: 0,
     title: "Backburner",
     artist: "NIKI",
@@ -60,7 +61,7 @@ const spotifyPlaylist = [
     ]
   },
 
-  {
+        {
     id: 1,
     title: "Eternity",
     artist: "Alex Warren",
