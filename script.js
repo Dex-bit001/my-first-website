@@ -4,7 +4,7 @@ const spotifyPlaylist = [
     id: 0,
     title: "Backburner",
     artist: "NIKI",
-    file: "NIKI_-_Backburner__Official_Music_Video_(256k).mp3",
+    file: "Backburner.mp3",
     cover: "backburner.jpeg",
     lyrics: [
       { time: 29, text: "I can't lie, it feels nice that you're calling" },
@@ -64,7 +64,7 @@ const spotifyPlaylist = [
     id: 1,
     title: "Eternity",
     artist: "Alex Warren",
-    file: "Alex Warren - Eternity (lyrics).mp3",
+    file: "Eternity.mp3",
     cover: "eternity.jpeg",
         lyrics: [
       { time: 0.50, text: "Hear the clock ticking on the wall" },
@@ -118,7 +118,7 @@ const spotifyPlaylist = [
     id: 2,
     title: "Muli",
     artist: "Ace Banzuelo",
-    file: "Ace Banzuelo - Muli (Official Lyric Video).mp3",
+    file: "Muli.mp3",
     cover: "muli.jpeg",
     lyrics: [
       { time: 0.00, text: "🎵 (Instrumental Intro) 🎵" },
